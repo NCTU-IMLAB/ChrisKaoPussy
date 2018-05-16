@@ -1,5 +1,11 @@
+//org:NCTU-IMLAB
+//repo:TingWeiPussy
+
+
 #include<stdio.h>
 #include<stdint.h>
+
+
 
 /*
  * main.c
@@ -9,7 +15,7 @@ uint_least8_t j=11;
 
 int main(void) {
 
-    int y=34;
+    int y=1080;
     j=0;
     for(i=0;i<25;i++){
         i=i+1;
